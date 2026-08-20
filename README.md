@@ -1,14 +1,13 @@
 # ✨ Mariana Rocha ✨
 
-**`Desenvolvedora Backend & AI Trainer`**
+**`Support Engineer Intern at SAP - Rotation Program`**
 
 #### Sobre
-Sou a Mariana, uma profissional apaixonada por inovação e soluções que impactam usuários reais. Atualmente sou estudante da graduação em Análise e Desenvolvimento de Sistemas na Unisinos, onde sempre busco conhecimento amplo e viés humanizado em processos relacionados à tecnologia.
+Sou a Mariana, uma profissional apaixonada por inovação e soluções que impactam usuários reais. Atualmente sou estudante da graduação em Análise e Desenvolvimento de Sistemas na Unisinos e Ciência da Computação na Unilasalle, onde sempre busco conhecimento amplo e viés humanizado em processos relacionados à tecnologia.
 Ao longo da minha trajetória profissional prévia, desenvolvi habilidades como agilidade na resolução de problemas complexos e foco no cliente, além de pensamento estratégico para lidar com questões técnicas.
-No meu momento de carreira atual, tenho foco em Desenvolvimento Backend, DevOps e Cloud.
+No meu momento de carreira atual, tenho foco em Desenvolvimento de soluções utilizando IA.
 
-* 🎓 Atualmente no 3º semestre da graduação tecnológica em **Análise e Desenvolvimento de Sistemas, na Universidade do Vale do Rio dos Sinos (Unisinos)**
-* 💻 Experiência profissional nas áreas de **suporte técnico, AI Training** e **atendimento ao cliente**
+* 🎓 Atualmente no 4º semestre de **Análise e Desenvolvimento de Sistemas, na Universidade do Vale do Rio dos Sinos (Unisinos)** e 2º semestre de Ciência da Computação na **Universidade La Salle**
 * 📍 **Rio Grande do Sul**
 
 
