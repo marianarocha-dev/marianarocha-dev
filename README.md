@@ -3,8 +3,7 @@
 **`Support Engineer Intern at SAP - Rotation Program`**
 
 #### Sobre
-Análise e Desenvolvimento de Sistemas - Unisinos
-Ciência da Computação - Unilasalle
+Análise e Desenvolvimento de Sistemas - Unisinos || & || Ciência da Computação - Unilasalle
 
 
 #### 🛠 Linguagens e Tecnologias
