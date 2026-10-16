@@ -3,12 +3,8 @@
 **`Support Engineer Intern at SAP - Rotation Program`**
 
 #### Sobre
-Sou a Mariana, uma profissional apaixonada por inovação e soluções que impactam usuários reais. Atualmente sou estudante da graduação em Análise e Desenvolvimento de Sistemas na Unisinos e Ciência da Computação na Unilasalle, onde sempre busco conhecimento amplo e viés humanizado em processos relacionados à tecnologia.
-Ao longo da minha trajetória profissional prévia, desenvolvi habilidades como agilidade na resolução de problemas complexos e foco no cliente, além de pensamento estratégico para lidar com questões técnicas.
-No meu momento de carreira atual, tenho foco em Desenvolvimento de soluções utilizando IA.
-
-* 🎓 Atualmente no 4º semestre de **Análise e Desenvolvimento de Sistemas, na Universidade do Vale do Rio dos Sinos (Unisinos)** e 2º semestre de Ciência da Computação na **Universidade La Salle**
-* 📍 **Rio Grande do Sul**
+Análise e Desenvolvimento de Sistemas - Unisinos
+Ciência da Computação - Unilasalle
 
 
 #### 🛠 Linguagens e Tecnologias
